@@ -1,0 +1,19 @@
+/* fonts  */
+.font0 {
+    font-size: 3.5rem;
+}
+
+/* main  */
+#main-img img {
+    height: 7rem;
+    width: 7rem;
+    padding: 1rem;
+}
+
+
+/* animation images */
+.outer img {
+    margin: 0.4rem;
+    height: 7rem;
+    width: 7rem;
+}

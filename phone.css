@@ -1,9 +1,9 @@
 /* fonts  */
-.font0{
+.font0 {
     font-size: 4rem;
 }
 
-.hide-image{
+.hide-image {
     display: none;
 }
 
@@ -23,4 +23,4 @@
     margin: 0.4rem;
     height: 9rem;
     width: 9rem;
-  }
+}
