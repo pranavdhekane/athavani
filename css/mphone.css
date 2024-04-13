@@ -11,6 +11,9 @@
 }
 
 
+#main {
+    height: 15rem;
+}
 /* animation images */
 .outer img {
     margin: 0.4rem;
