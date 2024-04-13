@@ -89,7 +89,7 @@ body{
   display: flex;
   justify-content: center;
   margin-top: 1rem;
-  background-image: url(outer_background.webp) ;
+  background-image: url(../images/outer_background.webp) ;
   background-size: cover;
   background-position: initial;
 }
