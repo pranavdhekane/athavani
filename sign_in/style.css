@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url(sign_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form {
+    border: 1px solid grey;
+    margin: 10% 0;
+    padding: 1%;
+    border-radius: 20px;
+    font-size: 1.5vw;
+    width: 40%;
+    background-color: rgb(167, 167, 167);
+    box-shadow: 0 0 2vw 1.4vw rgb(0 0 0 / 82%);
+}
+
+#caption {
+    font-size: 2vw;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+}
+
+#btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    border-radius: 0.9vw;
+    font-size: 1vw;
+    background-color: #fff;
+    padding: 0.5vw;
+    border: 1px solid grey;
+    filter: drop-shadow(0.5vw 0.4vw 0.1vw grey);
+}
+
+button:active {
+    filter: drop-shadow(0.5vw 0.4vw 0.1vw rgb(0, 0, 0));
+}
