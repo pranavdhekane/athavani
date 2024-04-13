@@ -6,9 +6,13 @@
 html{
   scroll-behavior: smooth;
 }
+
+body{
+  width: 100%;
+}
 /* utility classes */
 .font0{
-  font-size: 6rem;
+  font-size: 6rem; 
 }
 .font1{
   font-size: 1.5rem;

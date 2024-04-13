@@ -7,7 +7,6 @@
     display: none;
 }
 
-/* main */
 /* main  */
 #main-img img {
     height: 11rem;
@@ -15,3 +14,6 @@
     padding: 1rem;
 }
 
+#main {
+    height: 30rem;
+}
