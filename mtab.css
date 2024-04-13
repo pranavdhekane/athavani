@@ -1,0 +1,35 @@
+
+/* utility classes */
+.font0 {
+    font-size: 6rem;
+}
+
+.font1 {
+    font-size: 1.5rem;
+}
+
+.font2 {
+    font-size: 3rem;
+}
+
+/* main  */
+#main-img img {
+    height: 14rem;
+    width: 14rem;
+    padding: 1rem;
+}
+#main{
+    height: 20rem;
+}
+/* images animation */
+#images {
+    height: 20rem;
+}
+
+.outer img {
+    margin: 0.4rem;
+    height: 9rem;
+    width: 9rem;
+    border-radius: 1em;
+    box-shadow: 0px 0px 50px 5px gray;
+}
