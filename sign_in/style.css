@@ -16,14 +16,14 @@ form {
     margin: 10% 0;
     padding: 1%;
     border-radius: 20px;
-    font-size: 1.5vw;
+    font-size: 1.5rem;
     width: 40%;
     background-color: rgb(167, 167, 167);
-    box-shadow: 0 0 2vw 1.4vw rgb(0 0 0 / 82%);
+    box-shadow: 0 0 2rem 1.4rem rgb(0 0 0 / 82%);
 }
 
 #caption {
-    font-size: 2vw;
+    font-size: 2rem;
     text-align: center;
 }
 
@@ -37,14 +37,14 @@ input {
 }
 
 button {
-    border-radius: 0.9vw;
-    font-size: 1vw;
+    border-radius: 0.9rem;
+    font-size: 1rem;
     background-color: #fff;
-    padding: 0.5vw;
+    padding: 0.5rem;
     border: 1px solid grey;
-    filter: drop-shadow(0.5vw 0.4vw 0.1vw grey);
+    filter: drop-shadow(0.5rem 0.4rem 0.1rem grey);
 }
 
 button:active {
-    filter: drop-shadow(0.5vw 0.4vw 0.1vw rgb(0, 0, 0));
+    filter: drop-shadow(0.5rem 0.4rem 0.1rem rgb(0, 0, 0));
 }
