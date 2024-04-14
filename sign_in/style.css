@@ -67,10 +67,10 @@ button:active {
         height: 1rem;
     }
     button {
-        width: 2.5rem;
+        /* width: 2.5rem;
         font-size: 0.5rem;
         padding: 0.5rem;
-        border-radius: 0.45rem;
+        border-radius: 0.45rem; */
         filter: drop-shadow(0.25rem 0.2rem 0.05rem grey);
     }
     button:active{
