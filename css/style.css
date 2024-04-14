@@ -39,10 +39,12 @@ body{
 #nav{
   background-color: grey;
   height: 2rem;
+  display: flex;
+  justify-content:end;
+  place-items: center;
 }
 #nav ul{
   display : flex;
-  justify-content:end;
   list-style-type: none;
 }
 #nav a{
