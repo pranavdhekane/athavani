@@ -2,7 +2,12 @@
 .font0 {
     font-size: 3.5rem;
 }
-
+.font1{
+    font-size: 0.75rem;
+}
+.font2{
+    font-size: 1.7rem;
+}
 /* main  */
 #main-img img {
     height: 7rem;

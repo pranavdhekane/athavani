@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
 }
 
 html{
@@ -18,7 +20,7 @@ body{
   font-size: 1.5rem;
 }
 .font2{
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 /* head  */
