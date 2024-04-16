@@ -37,7 +37,7 @@ body{
 
 /* Navbar */
 #nav{
-  background-color: grey;
+  background-color: #434242;
   height: 2rem;
   display: flex;
   justify-content:end;
@@ -199,11 +199,11 @@ body{
   display: block;
   color: white;
   text-decoration: none;
-  background-color: grey;
+  background-color: #434242;
   padding: 0.2rem;
 }
 #h-container a:hover{
-  background-color: rgba(0, 0, 0, 0.758);
+  background-color: rgb(0, 0, 0);
 }
 #h-menu:hover #h-container {
   display: block;
