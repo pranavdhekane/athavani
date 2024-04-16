@@ -202,7 +202,9 @@ body{
   background-color: grey;
   padding: 0.2rem;
 }
-
+#h-container a:hover{
+  background-color: rgba(0, 0, 0, 0.758);
+}
 #h-menu:hover #h-container {
   display: block;
 }
