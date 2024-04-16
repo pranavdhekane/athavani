@@ -169,3 +169,53 @@ body{
     color: white;
     background-color: black;
 }
+
+/* #hamburger menu  */
+/* hamburger menu  */
+
+#h-menu {
+  display: none;
+  flex-direction: column;
+  /* background-color: black; */
+}
+
+#h-btn {
+  border: none;
+  background: none;
+  color: white;
+  position: absolute;
+  top: 8.8rem;
+  right: 5px;
+}
+
+#h-container {
+  display: none;
+  position: absolute;
+  width: 100%;
+}
+
+#h-container a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  background-color: grey;
+}
+
+#h-menu:hover #h-container {
+  display: block;
+}
+
+
+@media screen and (max-width : 450px) {
+  .font1 {
+    font-size: 0.75rem;
+  }
+
+  #nav {
+    display: none;
+  }
+
+  #h-menu {
+    display: inline;
+  }
+}
